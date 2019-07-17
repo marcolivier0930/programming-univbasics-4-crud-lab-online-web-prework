@@ -18,12 +18,12 @@ end
 
 def remove_element_from_end_of_array(array_3)
   array_3 = ["Hey", "Hi", 65, 95]
-  array_3.pop()
+  array_3.pop
 end
 
 def remove_element_from_start_of_array(array_4)
   array_4 = ["Hey", "Hi", 65, 95]
-  array_4.shift()
+  array_4.shift
 end
 
 def retrieve_element_from_index(array_5, index_number_1)
