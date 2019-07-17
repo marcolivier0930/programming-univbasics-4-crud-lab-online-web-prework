@@ -16,7 +16,7 @@ def add_element_to_start_of_array(array_2, element_2)
   array_2.unshift(element_2)
 end
 
-def remove_element_from_end_of_array(array_3)
+def remove_element_from_end_of_array(65)
   array_3 = ["Hey", "Hi", 65, 95]
   array_3.pop
 end
